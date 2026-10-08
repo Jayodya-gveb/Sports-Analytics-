@@ -1,0 +1,381 @@
+date,home_team,away_team,FTR,pred,confidence,correct,conf_band,elo_gap,gap_band
+2015-08-08,Bournemouth,Aston Villa,A,Draw,0.3877056118145775,False,Q2,60.59507160524345,Evenly matched
+2015-08-08,Chelsea,Swansea City,D,Home,0.630497324945502,False,Q4 highest,215.23114627129098,Big mismatch
+2015-08-08,Everton,Watford,D,Draw,0.3781185047033493,True,Q1 lowest,61.000651275416885,Evenly matched
+2015-08-08,Leicester City,Sunderland,H,Home,0.3915187350859836,True,Q2,19.456961698899477,Evenly matched
+2015-08-08,Manchester United,Tottenham Hotspur,H,Draw,0.3706634936828773,False,Q1 lowest,43.1095167824908,Evenly matched
+2015-08-08,Norwich City,Crystal Palace,A,Away,0.40280998343841357,True,Q2,92.2658512499604,Medium gap
+2015-08-09,Arsenal,West Ham United,A,Home,0.6665954673892106,False,Q4 highest,232.72356526518774,Big mismatch
+2015-08-09,Newcastle United,Southampton,D,Away,0.45947354531365747,False,Q3,107.2244264707997,Medium gap
+2015-08-09,Stoke City,Liverpool,A,Away,0.3609507690434587,True,Q1 lowest,88.87543275487269,Medium gap
+2015-08-10,West Bromwich Albion,Manchester City,A,Away,0.5546282829158414,True,Q4 highest,237.80350962732246,Big mismatch
+2015-08-14,Aston Villa,Manchester United,A,Away,0.5302908035946291,True,Q4 highest,220.9651496146223,Big mismatch
+2015-08-15,West Ham United,Leicester City,A,Draw,0.37736437698330183,False,Q1 lowest,12.373234219545111,Evenly matched
+2015-08-15,Watford,West Bromwich Albion,D,Draw,0.3901063114641732,True,Q2,14.197734832065635,Evenly matched
+2015-08-15,Tottenham Hotspur,Stoke City,D,Home,0.3840087068726518,False,Q1 lowest,76.23724457909543,Medium gap
+2015-08-15,Southampton,Everton,A,Draw,0.38041897824593074,False,Q1 lowest,3.948539170470667,Evenly matched
+2015-08-15,Sunderland,Norwich City,A,Draw,0.358795080853679,False,Q1 lowest,41.21038840049937,Evenly matched
+2015-08-15,Swansea City,Newcastle United,H,Home,0.4122152175735432,True,Q2,93.95037142398792,Medium gap
+2015-08-16,Crystal Palace,Arsenal,A,Away,0.4425527123631354,True,Q3,152.3651820516377,Big mismatch
+2015-08-16,Manchester City,Chelsea,H,Home,0.47119006379701067,True,Q3,7.641965950205304,Evenly matched
+2015-08-17,Liverpool,Bournemouth,H,Home,0.5273173288877797,True,Q4 highest,160.68352983722457,Big mismatch
+2015-08-22,Sunderland,Swansea City,D,Away,0.4487928897446816,False,Q3,94.23390520674593,Medium gap
+2015-08-22,West Ham United,Bournemouth,A,Draw,0.3749611364658298,False,Q1 lowest,3.4835903056223287,Evenly matched
+2015-08-22,Norwich City,Stoke City,D,Away,0.4508256841656197,False,Q3,104.66853713833325,Medium gap
+2015-08-22,Leicester City,Tottenham Hotspur,D,Away,0.4357749520476617,False,Q3,98.74155276825559,Medium gap
+2015-08-22,Crystal Palace,Aston Villa,H,Home,0.4021314347797877,True,Q2,82.29921482658074,Medium gap
+2015-08-22,Manchester United,Newcastle United,D,Home,0.6837285888014984,False,Q4 highest,236.0371500627216,Big mismatch
+2015-08-23,Everton,Manchester City,A,Away,0.40212934393583033,True,Q2,176.7804732359882,Big mismatch
+2015-08-23,Watford,Southampton,D,Draw,0.38187468106314276,True,Q1 lowest,40.859601518211775,Evenly matched
+2015-08-23,West Bromwich Albion,Chelsea,A,Away,0.5713228302397461,True,Q4 highest,245.41115583798705,Big mismatch
+2015-08-24,Arsenal,Liverpool,D,Home,0.41875919039811166,False,Q2,44.810411791436536,Evenly matched
+2015-08-29,Liverpool,West Ham United,A,Home,0.5668535612739299,False,Q4 highest,187.47583376250964,Big mismatch
+2015-08-29,Aston Villa,Sunderland,D,Draw,0.40072526935670644,True,Q2,14.765933531625706,Evenly matched
+2015-08-29,Bournemouth,Leicester City,D,Away,0.3731005066737101,False,Q1 lowest,21.112213499946165,Evenly matched
+2015-08-29,Chelsea,Crystal Palace,A,Home,0.4992293951540374,False,Q3,206.29505209970534,Big mismatch
+2015-08-29,Manchester City,Watford,H,Home,0.7054991628198138,True,Q4 highest,252.09773730165148,Big mismatch
+2015-08-29,Newcastle United,Arsenal,A,Away,0.5916383198398819,True,Q4 highest,243.34671647320215,Big mismatch
+2015-08-29,Stoke City,West Bromwich Albion,A,Home,0.4136923893088237,False,Q2,56.44566735184412,Evenly matched
+2015-08-29,Tottenham Hotspur,Everton,D,Home,0.3720724279071883,False,Q1 lowest,49.0315486963209,Evenly matched
+2015-08-30,Southampton,Norwich City,H,Home,0.3997792025879176,True,Q2,102.18419546415521,Medium gap
+2015-08-30,Swansea City,Manchester United,H,Away,0.4305690218164993,False,Q3,124.47176784735257,Medium gap
+2015-09-12,Norwich City,Bournemouth,H,Draw,0.37472443398013655,False,Q1 lowest,57.949332729649086,Evenly matched
+2015-09-12,West Bromwich Albion,Southampton,D,Draw,0.3795313030702665,True,Q1 lowest,48.93097354892279,Evenly matched
+2015-09-12,Manchester United,Liverpool,H,Home,0.40619712421692145,True,Q2,22.087638095235206,Evenly matched
+2015-09-12,Watford,Swansea City,H,Away,0.41645444701415907,False,Q2,61.97286697189543,Evenly matched
+2015-09-12,Crystal Palace,Manchester City,A,Away,0.4885650513661996,True,Q3,203.70003795633806,Big mismatch
+2015-09-12,Everton,Chelsea,H,Away,0.44697815171825966,False,Q3,159.8042673385537,Big mismatch
+2015-09-12,Arsenal,Stoke City,H,Home,0.5395942856255055,True,Q4 highest,169.42489105627897,Big mismatch
+2015-09-13,Leicester City,Aston Villa,H,Home,0.4439817803266457,True,Q3,76.46033336810319,Medium gap
+2015-09-13,Sunderland,Tottenham Hotspur,A,Away,0.5149206423732036,True,Q3,151.47204332490014,Big mismatch
+2015-09-14,West Ham United,Newcastle United,H,Draw,0.3895293238755692,False,Q2,38.20205439647589,Evenly matched
+2015-09-19,Swansea City,Everton,D,Draw,0.3708143473341052,True,Q1 lowest,28.561916927784523,Evenly matched
+2015-09-19,Stoke City,Leicester City,D,Draw,0.376512465655107,True,Q1 lowest,2.756164810929249,Evenly matched
+2015-09-19,Newcastle United,Watford,A,Draw,0.3919683692285221,False,Q2,70.05115455128407,Medium gap
+2015-09-19,Manchester City,West Ham United,A,Home,0.6934006341291608,False,Q4 highest,271.1725932267452,Big mismatch
+2015-09-19,Chelsea,Arsenal,H,Draw,0.38527617455364516,False,Q2,9.549772088539612,Evenly matched
+2015-09-19,Bournemouth,Sunderland,H,Draw,0.38022451926985995,False,Q1 lowest,33.24909316235471,Evenly matched
+2015-09-19,Aston Villa,West Bromwich Albion,A,Draw,0.4106282961776646,False,Q2,65.65459365689526,Medium gap
+2015-09-20,Liverpool,Norwich City,D,Home,0.5844278303780477,False,Q4 highest,186.0888205628164,Big mismatch
+2015-09-20,Southampton,Manchester United,A,Away,0.42425739827610215,True,Q2,119.68768065534482,Medium gap
+2015-09-20,Tottenham Hotspur,Crystal Palace,H,Home,0.3850378933212413,True,Q1 lowest,70.05803716318701,Medium gap
+2015-09-26,Tottenham Hotspur,Manchester City,H,Away,0.4202840129626953,False,Q2,121.97701606325768,Medium gap
+2015-09-26,Stoke City,Bournemouth,H,Draw,0.3901794094350588,False,Q2,33.13561292883651,Evenly matched
+2015-09-26,Southampton,Swansea City,H,Draw,0.39441954568668103,False,Q2,8.54442704960934,Evenly matched
+2015-09-26,West Ham United,Norwich City,D,Draw,0.37340035766910795,True,Q1 lowest,57.09816895077188,Evenly matched
+2015-09-26,Manchester United,Sunderland,H,Home,0.6679416248707052,True,Q4 highest,234.3963070296686,Big mismatch
+2015-09-26,Liverpool,Aston Villa,H,Home,0.5573522041673259,True,Q4 highest,201.20307804215395,Big mismatch
+2015-09-26,Leicester City,Arsenal,A,Away,0.4824754899748564,True,Q3,170.79790021367785,Big mismatch
+2015-09-26,Newcastle United,Chelsea,D,Away,0.5873680670375917,False,Q4 highest,292.4197233595007,Big mismatch
+2015-09-27,Watford,Crystal Palace,A,Draw,0.38230983909959626,False,Q1 lowest,21.81391442291192,Evenly matched
+2015-09-28,West Bromwich Albion,Everton,A,Away,0.43641893221097905,True,Q3,70.3430686294414,Medium gap
+2015-10-03,Aston Villa,Stoke City,A,Away,0.4168547190611303,True,Q2,110.81158949194673,Medium gap
+2015-10-03,Bournemouth,Watford,D,Draw,0.3895246223569043,True,Q2,23.68998183244321,Evenly matched
+2015-10-03,Chelsea,Southampton,A,Home,0.47428546206174277,False,Q3,165.87264688641335,Big mismatch
+2015-10-03,Crystal Palace,West Bromwich Albion,H,Draw,0.38100587775395955,False,Q1 lowest,51.34122128426725,Evenly matched
+2015-10-03,Manchester City,Newcastle United,H,Home,0.6699144216444526,True,Q4 highest,298.55800520303023,Big mismatch
+2015-10-03,Norwich City,Leicester City,A,Draw,0.3801992006916516,False,Q1 lowest,63.140048685733746,Medium gap
+2015-10-03,Sunderland,West Ham United,D,Away,0.38083031473719503,False,Q1 lowest,65.60964165753239,Medium gap
+2015-10-04,Swansea City,Tottenham Hotspur,D,Away,0.45751592194416846,False,Q3,93.76512702731043,Medium gap
+2015-10-04,Arsenal,Manchester United,H,Home,0.3544765865410034,True,Q1 lowest,22.172959112682747,Evenly matched
+2015-10-04,Everton,Liverpool,D,Draw,0.37040769530603035,True,Q1 lowest,39.466268119602546,Evenly matched
+2015-10-17,Chelsea,Aston Villa,H,Home,0.5671996852173847,True,Q4 highest,287.63157918460774,Big mismatch
+2015-10-17,Crystal Palace,West Ham United,A,Draw,0.38473390322499834,False,Q1 lowest,52.873768791472,Evenly matched
+2015-10-17,Everton,Manchester United,A,Away,0.3666838138106793,True,Q1 lowest,83.68719337395783,Medium gap
+2015-10-17,Manchester City,Bournemouth,H,Home,0.6876619537472624,True,Q4 highest,253.0070345151039,Big mismatch
+2015-10-17,Southampton,Leicester City,D,Home,0.39966882913417173,False,Q2,37.40381736374229,Evenly matched
+2015-10-17,Tottenham Hotspur,Liverpool,D,Home,0.45373855949175196,False,Q3,4.140917932984621,Evenly matched
+2015-10-17,Watford,Arsenal,A,Away,0.554546236298681,True,Q4 highest,201.9944503663903,Big mismatch
+2015-10-17,West Bromwich Albion,Sunderland,H,Draw,0.3696917271465129,False,Q1 lowest,53.017860995974615,Evenly matched
+2015-10-18,Newcastle United,Norwich City,H,Draw,0.4123717014401915,False,Q2,12.46840531345947,Evenly matched
+2015-10-19,Swansea City,Stoke City,A,Draw,0.386622243220299,False,Q2,2.0228523407588455,Evenly matched
+2015-10-24,West Ham United,Chelsea,H,Away,0.4780518162956303,False,Q3,183.69364103744374,Big mismatch
+2015-10-24,Norwich City,West Bromwich Albion,A,Draw,0.3924599180257116,False,Q2,63.578455429586484,Medium gap
+2015-10-24,Stoke City,Watford,A,Draw,0.3799934360269134,False,Q1 lowest,49.60852659077227,Evenly matched
+2015-10-24,Aston Villa,Swansea City,A,Away,0.4318052354593586,True,Q3,120.54542167045634,Medium gap
+2015-10-24,Leicester City,Crystal Palace,H,Draw,0.36753194451907534,False,Q1 lowest,14.392857464478766,Evenly matched
+2015-10-24,Arsenal,Everton,H,Home,0.5377743318724464,True,Q4 highest,136.66182727910336,Big mismatch
+2015-10-25,Bournemouth,Tottenham Hotspur,A,Away,0.52416592834305,True,Q4 highest,152.34586541001022,Big mismatch
+2015-10-25,Liverpool,Southampton,D,Draw,0.36555402001965276,True,Q1 lowest,68.98066293235092,Medium gap
+2015-10-25,Manchester United,Manchester City,D,Away,0.35189908166140926,False,Q1 lowest,56.2823078749384,Evenly matched
+2015-10-25,Sunderland,Newcastle United,H,Draw,0.39765505406266655,False,Q2,7.966130785277073,Evenly matched
+2015-10-31,West Bromwich Albion,Leicester City,A,Draw,0.3816300260944048,False,Q1 lowest,29.55134286331304,Evenly matched
+2015-10-31,Swansea City,Arsenal,A,Away,0.46002305887895206,True,Q3,182.7494705265442,Big mismatch
+2015-10-31,Newcastle United,Stoke City,D,Away,0.45706257241603937,False,Q3,106.1303199910351,Medium gap
+2015-10-31,Watford,West Ham United,H,Away,0.36326589160515044,False,Q1 lowest,16.61729817179753,Evenly matched
+2015-10-31,Crystal Palace,Manchester United,D,Away,0.4834516906912611,False,Q3,145.64897119282614,Big mismatch
+2015-10-31,Chelsea,Liverpool,A,Home,0.3753624641595558,False,Q1 lowest,60.70473962907408,Evenly matched
+2015-10-31,Manchester City,Norwich City,H,Home,0.6618379826434303,True,Q4 highest,312.0723310154376,Big mismatch
+2015-11-01,Everton,Sunderland,H,Home,0.42657726869206114,True,Q3,133.22498530210078,Big mismatch
+2015-11-01,Southampton,Bournemouth,H,Home,0.4460707445453265,True,Q3,93.82881905010117,Medium gap
+2015-11-02,Tottenham Hotspur,Aston Villa,H,Home,0.6468617253990415,True,Q4 highest,237.9917058498295,Big mismatch
+2015-11-07,West Ham United,Everton,D,Away,0.40224184839781474,False,Q2,56.745057274459896,Evenly matched
+2015-11-07,Bournemouth,Newcastle United,A,Draw,0.3942157590034562,False,Q2,32.533434677860214,Evenly matched
+2015-11-07,Leicester City,Watford,H,Draw,0.38445336010780906,False,Q1 lowest,26.214146250744307,Evenly matched
+2015-11-07,Manchester United,West Bromwich Albion,H,Home,0.6267922256910944,True,Q4 highest,180.66127616580206,Big mismatch
+2015-11-07,Norwich City,Swansea City,H,Away,0.4048636088924995,False,Q2,107.64014653565937,Medium gap
+2015-11-07,Stoke City,Chelsea,H,Away,0.42522658171289535,False,Q2,137.95579070593976,Big mismatch
+2015-11-07,Sunderland,Southampton,A,Away,0.49230754078714156,True,Q3,135.2518562879136,Big mismatch
+2015-11-08,Liverpool,Crystal Palace,A,Home,0.46818736516693177,False,Q3,102.59551110298071,Medium gap
+2015-11-08,Aston Villa,Manchester City,D,Away,0.6593976836639851,False,Q4 highest,342.17346006846583,Big mismatch
+2015-11-08,Arsenal,Tottenham Hotspur,D,Home,0.41683141227609094,False,Q2,85.41041838534215,Medium gap
+2015-11-21,Chelsea,Norwich City,H,Home,0.5744702197077249,True,Q4 highest,227.49454367247336,Big mismatch
+2015-11-21,Everton,Aston Villa,H,Home,0.496144523554843,True,Q3,174.81562545614065,Big mismatch
+2015-11-21,Manchester City,Liverpool,A,Home,0.5706352559927411,False,Q4 highest,106.8932193472142,Medium gap
+2015-11-21,Newcastle United,Leicester City,A,Away,0.47722015198945966,True,Q3,111.2481801729241,Medium gap
+2015-11-21,Southampton,Stoke City,A,Home,0.3638648704050732,False,Q1 lowest,30.21389058206637,Evenly matched
+2015-11-21,Swansea City,Bournemouth,D,Draw,0.3734240029770458,True,Q1 lowest,66.72822349079297,Medium gap
+2015-11-21,Watford,Manchester United,A,Away,0.4853524901905435,True,Q3,167.14705134503515,Big mismatch
+2015-11-21,West Bromwich Albion,Arsenal,H,Away,0.6047139723396188,False,Q4 highest,229.0494583562663,Big mismatch
+2015-11-22,Tottenham Hotspur,West Ham United,H,Home,0.5638445792439495,True,Q4 highest,123.45626532985784,Medium gap
+2015-11-23,Crystal Palace,Sunderland,A,Home,0.4149589755674859,False,Q2,124.26867379643409,Medium gap
+2015-11-28,Sunderland,Stoke City,H,Away,0.48302155257461804,False,Q3,118.45573124779685,Medium gap
+2015-11-28,Manchester City,Southampton,H,Home,0.47351351795406016,True,Q3,152.1139098287765,Big mismatch
+2015-11-28,Leicester City,Manchester United,D,Away,0.4085633919109729,False,Q2,124.27105623844614,Medium gap
+2015-11-28,Bournemouth,Everton,D,Away,0.5127342781143727,False,Q3,126.69485202916826,Medium gap
+2015-11-28,Aston Villa,Watford,A,Away,0.38552111871312184,True,Q2,108.40849283399189,Medium gap
+2015-11-28,Crystal Palace,Newcastle United,H,Home,0.3822297115316829,True,Q1 lowest,100.27009135741105,Medium gap
+2015-11-29,Liverpool,Swansea City,H,Home,0.5187230799426241,True,Q4 highest,124.35698288685467,Medium gap
+2015-11-29,Norwich City,Arsenal,D,Away,0.5994464112715494,False,Q4 highest,276.97805159805716,Big mismatch
+2015-11-29,Tottenham Hotspur,Chelsea,D,Home,0.45767516203075287,False,Q3,14.754693400975157,Evenly matched
+2015-11-29,West Ham United,West Bromwich Albion,D,Draw,0.3841350135881659,True,Q1 lowest,8.42040179843616,Evenly matched
+2015-12-05,Swansea City,Leicester City,A,Away,0.46924536807057954,True,Q3,56.19069501775539,Evenly matched
+2015-12-05,West Bromwich Albion,Tottenham Hotspur,D,Away,0.5061038973245207,False,Q3,138.96001666342204,Big mismatch
+2015-12-05,Watford,Norwich City,H,Home,0.40245835318364925,True,Q2,80.02642830437958,Medium gap
+2015-12-05,Stoke City,Manchester City,H,Away,0.4373278377299187,False,Q3,173.4702295950733,Big mismatch
+2015-12-05,Arsenal,Sunderland,H,Home,0.6612507457710602,True,Q4 highest,248.52337773477257,Big mismatch
+2015-12-05,Manchester United,West Ham United,D,Home,0.6593232129878059,False,Q4 highest,172.85744627456938,Big mismatch
+2015-12-05,Chelsea,Bournemouth,A,Home,0.5732115826793468,False,Q4 highest,208.4213847727392,Big mismatch
+2015-12-05,Southampton,Aston Villa,D,Home,0.48654402853006706,False,Q3,170.35099179007148,Big mismatch
+2015-12-06,Newcastle United,Liverpool,H,Away,0.6018130972910404,False,Q4 highest,214.28613523260265,Big mismatch
+2015-12-07,Everton,Crystal Palace,D,Home,0.3710692722785175,False,Q1 lowest,38.1985076895744,Evenly matched
+2015-12-12,West Ham United,Stoke City,D,Away,0.4078971429448397,False,Q2,41.903072047442265,Evenly matched
+2015-12-12,Sunderland,Watford,A,Away,0.38797633928132624,True,Q2,71.72757783622774,Medium gap
+2015-12-12,Norwich City,Everton,D,Away,0.49517461918900685,False,Q3,147.56636128917307,Big mismatch
+2015-12-12,Crystal Palace,Southampton,H,Draw,0.36336723365487655,False,Q1 lowest,10.23394008960031,Evenly matched
+2015-12-12,Bournemouth,Manchester United,H,Away,0.5551180624045553,False,Q4 highest,207.17066472068655,Big mismatch
+2015-12-12,Manchester City,Swansea City,H,Home,0.6024191265476442,True,Q4 highest,208.97123286604437,Big mismatch
+2015-12-13,Aston Villa,Arsenal,A,Away,0.6486155634645702,True,Q4 highest,308.5985033317327,Big mismatch
+2015-12-13,Liverpool,West Bromwich Albion,D,Home,0.5291252457855542,False,Q4 highest,118.82114990802415,Medium gap
+2015-12-13,Tottenham Hotspur,Newcastle United,A,Home,0.6859281762844444,False,Q4 highest,201.6161015101693,Big mismatch
+2015-12-14,Leicester City,Chelsea,H,Away,0.3660995477478624,False,Q1 lowest,72.93427267134348,Medium gap
+2015-12-19,Southampton,Tottenham Hotspur,A,Away,0.4286544705494694,True,Q3,83.35955746844388,Medium gap
+2015-12-19,Stoke City,Crystal Palace,A,Draw,0.38151675255576223,False,Q1 lowest,8.889079839362466,Evenly matched
+2015-12-19,Newcastle United,Aston Villa,D,Draw,0.37010673658768733,True,Q1 lowest,68.50725504495813,Medium gap
+2015-12-19,West Bromwich Albion,Bournemouth,A,Draw,0.3896613613870534,False,Q2,28.60320906316838,Evenly matched
+2015-12-19,Everton,Leicester City,A,Draw,0.37354954341956836,False,Q1 lowest,11.694658627642639,Evenly matched
+2015-12-19,Chelsea,Sunderland,H,Home,0.5782686254680879,True,Q4 highest,197.99723738074522,Big mismatch
+2015-12-19,Manchester United,Norwich City,A,Home,0.6658004490382332,False,Q4 highest,234.60484479477873,Big mismatch
+2015-12-20,Swansea City,West Ham United,D,Draw,0.3581686314479212,True,Q1 lowest,22.89323565699442,Evenly matched
+2015-12-20,Watford,Liverpool,H,Away,0.41003372944604166,False,Q2,93.81581679021974,Medium gap
+2015-12-21,Arsenal,Manchester City,H,Home,0.4367322272697487,True,Q3,3.6663474188608234,Evenly matched
+2015-12-26,Tottenham Hotspur,Norwich City,H,Home,0.624462274081267,True,Q4 highest,189.85134336672058,Big mismatch
+2015-12-26,Swansea City,West Bromwich Albion,H,Draw,0.3857822106092226,False,Q2,8.568336423847313,Evenly matched
+2015-12-26,Stoke City,Manchester United,H,Away,0.41239324221190654,False,Q2,99.78928101902488,Medium gap
+2015-12-26,Newcastle United,Everton,A,Away,0.4626169812007297,True,Q3,106.24198520350137,Medium gap
+2015-12-26,Southampton,Arsenal,H,Away,0.5258241357398199,False,Q4 highest,180.0120462841171,Big mismatch
+2015-12-26,Liverpool,Leicester City,H,Draw,0.39384674680215886,False,Q2,16.709694467995632,Evenly matched
+2015-12-26,Chelsea,Watford,D,Home,0.4072278504145894,False,Q2,99.66727282014836,Medium gap
+2015-12-26,Bournemouth,Crystal Palace,D,Away,0.43504857335066965,False,Q3,65.01143963930872,Medium gap
+2015-12-26,Aston Villa,West Ham United,D,Away,0.4002441317808308,False,Q2,124.41629068565908,Medium gap
+2015-12-26,Manchester City,Sunderland,H,Home,0.5995532481041979,True,Q4 highest,266.80327251489757,Big mismatch
+2015-12-28,West Ham United,Southampton,H,Draw,0.3814833443036939,False,Q1 lowest,31.89761126360736,Evenly matched
+2015-12-28,Arsenal,Bournemouth,H,Home,0.6023534973848704,True,Q4 highest,203.34955569272483,Big mismatch
+2015-12-28,Crystal Palace,Swansea City,D,Home,0.43848921240362065,False,Q3,61.29458345794956,Evenly matched
+2015-12-28,Everton,Stoke City,A,Draw,0.3847198066001434,False,Q1 lowest,10.869239329161928,Evenly matched
+2015-12-28,Manchester United,Chelsea,D,Draw,0.37140218481583503,True,Q1 lowest,0.6544704889765853,Evenly matched
+2015-12-28,Norwich City,Aston Villa,H,Draw,0.3848412641544759,False,Q1 lowest,47.65387111241489,Evenly matched
+2015-12-28,Watford,Tottenham Hotspur,A,Away,0.41269986135894376,True,Q2,95.75013217658125,Medium gap
+2015-12-28,West Bromwich Albion,Newcastle United,H,Draw,0.39008283787395565,False,Q2,46.68026281312723,Evenly matched
+2015-12-29,Leicester City,Manchester City,D,Away,0.39797350522455305,False,Q2,116.39389270095967,Medium gap
+2015-12-30,Sunderland,Liverpool,A,Away,0.5424299162821281,True,Q4 highest,188.06359204775572,Big mismatch
+2016-01-02,Arsenal,Newcastle United,H,Home,0.691851208722302,True,Q4 highest,265.71750522231287,Big mismatch
+2016-01-02,Leicester City,Bournemouth,D,Home,0.48853247370133734,False,Q3,95.01494140561749,Medium gap
+2016-01-02,Manchester United,Swansea City,H,Home,0.46738808279095373,True,Q3,129.97836912554885,Big mismatch
+2016-01-02,Norwich City,Southampton,H,Away,0.4051300149161211,False,Q2,88.80396725732271,Medium gap
+2016-01-02,Sunderland,Aston Villa,H,Draw,0.3949342452520836,False,Q2,37.29409613212874,Evenly matched
+2016-01-02,Watford,Manchester City,A,Away,0.43893036581359807,True,Q3,166.8005897786643,Big mismatch
+2016-01-02,West Bromwich Albion,Stoke City,H,Away,0.4497027226143737,False,Q3,71.0356560549269,Medium gap
+2016-01-02,West Ham United,Liverpool,H,Away,0.46055275260266143,False,Q3,101.36243644306887,Medium gap
+2016-01-03,Crystal Palace,Chelsea,A,Away,0.36316090073220864,True,Q1 lowest,78.19761222681382,Medium gap
+2016-01-03,Everton,Tottenham Hotspur,D,Away,0.4529370585024724,False,Q3,91.6490353388092,Medium gap
+2016-01-12,Newcastle United,Manchester United,D,Away,0.530518906469826,False,Q4 highest,203.2076054678182,Big mismatch
+2016-01-12,Bournemouth,West Ham United,A,Draw,0.39845173725128197,False,Q2,37.8776046569717,Evenly matched
+2016-01-12,Aston Villa,Crystal Palace,H,Away,0.5126923350502705,False,Q3,168.8219805250751,Big mismatch
+2016-01-13,Swansea City,Sunderland,A,Draw,0.3942899458546644,False,Q2,66.86174009938554,Medium gap
+2016-01-13,Liverpool,Arsenal,D,Draw,0.3899378991246458,True,Q2,92.15350136596294,Medium gap
+2016-01-13,Chelsea,West Bromwich Albion,D,Home,0.5143983036763333,False,Q3,136.76545686162808,Big mismatch
+2016-01-13,Manchester City,Everton,D,Home,0.5781045486102492,False,Q4 highest,150.86111212609194,Big mismatch
+2016-01-13,Southampton,Watford,H,Draw,0.37078262420918456,False,Q1 lowest,0.8060494808041767,Evenly matched
+2016-01-13,Stoke City,Norwich City,H,Home,0.4074489348609739,True,Q2,99.86257502596914,Medium gap
+2016-01-13,Tottenham Hotspur,Leicester City,A,Home,0.4300659129715014,False,Q3,63.35366889402644,Medium gap
+2016-01-16,Tottenham Hotspur,Sunderland,H,Home,0.6088765865205548,True,Q4 highest,188.770590508655,Big mismatch
+2016-01-16,Southampton,West Bromwich Albion,H,Draw,0.3731556666650999,False,Q1 lowest,20.873616888206698,Evenly matched
+2016-01-16,Newcastle United,West Ham United,H,Away,0.4621478403803141,False,Q3,106.62266819657702,Medium gap
+2016-01-16,Bournemouth,Norwich City,H,Draw,0.3747752997362668,False,Q1 lowest,32.83462304287309,Evenly matched
+2016-01-16,Chelsea,Everton,D,Home,0.43707750677337137,False,Q3,77.74747357870501,Medium gap
+2016-01-16,Aston Villa,Leicester City,D,Away,0.5473561109164291,False,Q4 highest,204.53275285273367,Big mismatch
+2016-01-16,Manchester City,Crystal Palace,H,Home,0.5979498995592545,True,Q4 highest,167.332696146462,Big mismatch
+2016-01-17,Liverpool,Manchester United,A,Draw,0.3855802016580024,False,Q2,19.498863349697103,Evenly matched
+2016-01-17,Stoke City,Arsenal,D,Away,0.38783123138163356,False,Q2,140.3124823406033,Big mismatch
+2016-01-18,Swansea City,Watford,H,Draw,0.36765506929359404,False,Q1 lowest,34.18896721877081,Evenly matched
+2016-01-23,West Ham United,Manchester City,D,Away,0.43929254461433537,False,Q3,172.6779207754687,Big mismatch
+2016-01-23,West Bromwich Albion,Aston Villa,D,Draw,0.38337325049764864,True,Q1 lowest,109.65163991630175,Medium gap
+2016-01-23,Watford,Newcastle United,H,Draw,0.3983415418296257,False,Q2,59.38764401908202,Evenly matched
+2016-01-23,Sunderland,Bournemouth,D,Draw,0.3838825129222112,True,Q1 lowest,52.79483449339682,Evenly matched
+2016-01-23,Norwich City,Liverpool,A,Away,0.49541217959959516,True,Q3,157.49289462717297,Big mismatch
+2016-01-23,Leicester City,Stoke City,H,Draw,0.39121707448164406,False,Q2,26.053203814427206,Evenly matched
+2016-01-23,Crystal Palace,Tottenham Hotspur,A,Away,0.4754941527314266,True,Q3,106.42480033514516,Medium gap
+2016-01-23,Manchester United,Southampton,A,Home,0.4054434588701725,False,Q2,103.0490473602822,Medium gap
+2016-01-24,Arsenal,Chelsea,A,Home,0.38664699249645523,False,Q2,66.27040594329173,Medium gap
+2016-01-24,Everton,Swansea City,A,Home,0.3931674932517084,False,Q2,72.40989862309107,Medium gap
+2016-02-02,Manchester United,Stoke City,H,Home,0.3983641790932093,True,Q2,71.58902551214965,Medium gap
+2016-02-02,West Bromwich Albion,Swansea City,D,Draw,0.3905768962272358,True,Q2,6.002781024536489,Evenly matched
+2016-02-02,West Ham United,Aston Villa,H,Home,0.48438253166520595,True,Q3,136.33373341004267,Big mismatch
+2016-02-02,Crystal Palace,Bournemouth,A,Draw,0.390168845903007,False,Q2,28.383170693685315,Evenly matched
+2016-02-02,Norwich City,Tottenham Hotspur,A,Away,0.5521745063308431,True,Q4 highest,207.238301495938,Big mismatch
+2016-02-02,Arsenal,Southampton,D,Home,0.5006489581727877,False,Q3,132.56767159578158,Big mismatch
+2016-02-02,Sunderland,Manchester City,A,Away,0.5345132603333135,True,Q4 highest,262.97170375071596,Big mismatch
+2016-02-02,Leicester City,Liverpool,H,Home,0.389808639483578,True,Q2,10.212389436782587,Evenly matched
+2016-02-03,Watford,Chelsea,D,Away,0.5001566149573294,False,Q3,133.7363200211787,Big mismatch
+2016-02-03,Everton,Newcastle United,H,Home,0.4008926485211793,True,Q2,109.18172143907509,Medium gap
+2016-02-06,Tottenham Hotspur,Watford,H,Home,0.561646311816316,True,Q4 highest,133.71522512901652,Big mismatch
+2016-02-06,Swansea City,Crystal Palace,D,Away,0.3418405924879822,False,Q1 lowest,0.735320503600633,Evenly matched
+2016-02-06,Southampton,West Ham United,H,Draw,0.3679220447925791,False,Q1 lowest,19.620496977129505,Evenly matched
+2016-02-06,Stoke City,Everton,A,Draw,0.39192394783211815,False,Q2,5.092451317173982,Evenly matched
+2016-02-06,Manchester City,Leicester City,A,Home,0.4797232838456402,False,Q3,99.2041262768148,Medium gap
+2016-02-06,Liverpool,Sunderland,D,Home,0.5587222352311951,False,Q4 highest,166.3122936253767,Big mismatch
+2016-02-06,Aston Villa,Norwich City,H,Draw,0.3937256665706721,False,Q2,36.77816994790305,Evenly matched
+2016-02-06,Newcastle United,West Bromwich Albion,H,Draw,0.4100712482008092,False,Q2,61.98275094369819,Medium gap
+2016-02-07,Bournemouth,Arsenal,A,Away,0.48869583729860333,True,Q3,177.8585543563322,Big mismatch
+2016-02-07,Chelsea,Manchester United,D,Home,0.3578897203680462,False,Q1 lowest,10.490661096964232,Evenly matched
+2016-02-13,Swansea City,Southampton,A,Away,0.4255653644844211,True,Q2,62.13488708889895,Medium gap
+2016-02-13,Bournemouth,Stoke City,A,Away,0.36781134901760654,True,Q1 lowest,41.816341471554324,Evenly matched
+2016-02-13,Chelsea,Newcastle United,H,Home,0.5836238354958708,True,Q4 highest,197.84232120149682,Big mismatch
+2016-02-13,Crystal Palace,Watford,A,Draw,0.39949009209899095,False,Q2,1.9143800437009304,Evenly matched
+2016-02-13,Everton,West Bromwich Albion,A,Home,0.41413567081459013,False,Q2,79.7876242118798,Medium gap
+2016-02-13,Norwich City,West Ham United,D,Away,0.4492307320840135,False,Q3,110.90560673986352,Medium gap
+2016-02-13,Sunderland,Manchester United,H,Away,0.5503873766664833,False,Q4 highest,197.72656410803165,Big mismatch
+2016-02-14,Manchester City,Tottenham Hotspur,A,Draw,0.3629218728890545,False,Q1 lowest,37.13012173038214,Evenly matched
+2016-02-14,Arsenal,Leicester City,H,Draw,0.3714439823319188,False,Q1 lowest,67.49378634836467,Medium gap
+2016-02-14,Aston Villa,Liverpool,A,Away,0.4642876149430997,True,Q3,191.1652580299317,Big mismatch
+2016-02-27,Leicester City,Norwich City,H,Home,0.6528682580260768,True,Q4 highest,192.06421657941678,Big mismatch
+2016-02-27,Southampton,Chelsea,A,Away,0.3650358695696394,True,Q1 lowest,70.14199147168574,Medium gap
+2016-02-27,Stoke City,Aston Villa,H,Home,0.4436609835744552,True,Q3,153.02327659750904,Big mismatch
+2016-02-27,Watford,Bournemouth,D,Draw,0.38755491614917076,True,Q2,35.91768529302544,Evenly matched
+2016-02-27,West Bromwich Albion,Crystal Palace,H,Draw,0.3679483821449001,False,Q1 lowest,3.9078052726524675,Evenly matched
+2016-02-27,West Ham United,Sunderland,H,Home,0.38984050212064425,True,Q2,77.49012114823768,Medium gap
+2016-02-28,Manchester United,Arsenal,H,Draw,0.36023602667776655,False,Q1 lowest,71.83643029346445,Medium gap
+2016-02-28,Tottenham Hotspur,Swansea City,H,Home,0.6788951739675484,True,Q4 highest,172.28407137550857,Big mismatch
+2016-03-01,Bournemouth,Southampton,H,Away,0.5055672230439306,False,Q3,77.90530720952756,Medium gap
+2016-03-01,Sunderland,Crystal Palace,D,Draw,0.39431538598668636,True,Q2,42.43956959940124,Evenly matched
+2016-03-01,Norwich City,Chelsea,A,Away,0.6527058050904607,True,Q4 highest,238.15225543408656,Big mismatch
+2016-03-01,Aston Villa,Everton,A,Away,0.4956711225284423,True,Q3,161.444744984321,Big mismatch
+2016-03-01,Leicester City,West Bromwich Albion,D,Home,0.6074614929525309,False,Q4 highest,108.88289899905931,Medium gap
+2016-03-02,Manchester United,Watford,H,Home,0.5174211701785559,True,Q3,113.61158628168369,Medium gap
+2016-03-02,Arsenal,Swansea City,A,Home,0.5998348728492607,False,Q4 highest,193.85741471391316,Big mismatch
+2016-03-02,West Ham United,Tottenham Hotspur,H,Away,0.42172585768559956,False,Q2,134.7036871428404,Big mismatch
+2016-03-02,Liverpool,Manchester City,H,Draw,0.35421995147300483,False,Q1 lowest,78.46533809896073,Medium gap
+2016-03-02,Stoke City,Newcastle United,H,Home,0.41842688176413584,True,Q2,112.18442933131587,Medium gap
+2016-03-05,Swansea City,Norwich City,H,Draw,0.36327372628702315,False,Q1 lowest,93.6441998255234,Medium gap
+2016-03-05,Watford,Leicester City,A,Away,0.5243780829758,True,Q4 highest,99.30738240408664,Medium gap
+2016-03-05,Southampton,Sunderland,D,Home,0.428995727040527,False,Q3,110.51826320864507,Medium gap
+2016-03-05,Tottenham Hotspur,Arsenal,D,Home,0.41180644439230024,False,Q2,9.136996534648006,Evenly matched
+2016-03-05,Manchester City,Aston Villa,H,Home,0.5651725421647366,True,Q4 highest,283.5856726307686,Big mismatch
+2016-03-05,Chelsea,Stoke City,D,Home,0.4953487287626516,False,Q3,102.62289667140476,Medium gap
+2016-03-05,Newcastle United,Bournemouth,A,Draw,0.4189632551143502,False,Q2,63.406753111089074,Medium gap
+2016-03-05,Everton,West Ham United,A,Draw,0.363615223724336,False,Q1 lowest,11.755499556176574,Evenly matched
+2016-03-06,Crystal Palace,Liverpool,A,Away,0.5164000931636799,True,Q3,121.30959195202627,Medium gap
+2016-03-06,West Bromwich Albion,Manchester United,H,Away,0.4796626170485617,False,Q3,124.92751102655802,Medium gap
+2016-03-12,Bournemouth,Swansea City,H,Draw,0.3838461662226865,False,Q1 lowest,3.1048362650406034,Evenly matched
+2016-03-12,Norwich City,Manchester City,D,Away,0.6025392434779883,False,Q4 highest,263.2784793723688,Big mismatch
+2016-03-12,Stoke City,Southampton,A,Draw,0.38263970888487164,False,Q1 lowest,11.644182266623375,Evenly matched
+2016-03-13,Aston Villa,Tottenham Hotspur,A,Away,0.6319001967252516,True,Q4 highest,275.45596282303904,Big mismatch
+2016-03-14,Leicester City,Newcastle United,H,Home,0.6569464077778399,True,Q4 highest,196.1257426655502,Big mismatch
+2016-03-19,West Bromwich Albion,Norwich City,A,Home,0.5166980694685968,False,Q3,112.99426461966596,Medium gap
+2016-03-19,Watford,Stoke City,A,Draw,0.3832987535171216,False,Q1 lowest,46.17513412702806,Evenly matched
+2016-03-19,Swansea City,Aston Villa,H,Home,0.3716040782647915,True,Q1 lowest,126.61454725110593,Medium gap
+2016-03-19,Everton,Arsenal,A,Away,0.40987076148474544,True,Q2,121.33996333791902,Medium gap
+2016-03-19,Crystal Palace,Leicester City,A,Away,0.5095894810412998,True,Q3,144.9892482976486,Big mismatch
+2016-03-19,Chelsea,West Ham United,D,Home,0.4617041057236599,False,Q3,96.88080093157237,Medium gap
+2016-03-20,Manchester City,Manchester United,A,Draw,0.36188687013813686,False,Q1 lowest,38.52432921122249,Evenly matched
+2016-03-20,Newcastle United,Sunderland,D,Draw,0.39438462863512813,True,Q2,27.939946396737696,Evenly matched
+2016-03-20,Southampton,Liverpool,H,Draw,0.4103053152872421,False,Q2,55.009451475838205,Evenly matched
+2016-03-20,Tottenham Hotspur,Bournemouth,H,Home,0.5401925529871647,True,Q4 highest,144.16803529034155,Big mismatch
+2016-04-02,West Ham United,Crystal Palace,D,Home,0.4879967028901128,False,Q3,91.26037743937263,Medium gap
+2016-04-02,Sunderland,West Bromwich Albion,D,Draw,0.37957994150649677,True,Q1 lowest,59.49944968067166,Evenly matched
+2016-04-02,Stoke City,Swansea City,D,Home,0.3863364600798251,False,Q2,52.61377415914353,Evenly matched
+2016-04-02,Norwich City,Newcastle United,H,Draw,0.3482137018032809,False,Q1 lowest,5.494992502166724,Evenly matched
+2016-04-02,Liverpool,Tottenham Hotspur,D,Away,0.3688189013628494,False,Q1 lowest,57.65141707792418,Evenly matched
+2016-04-02,Bournemouth,Manchester City,A,Away,0.4761767838798624,True,Q3,139.36433240668498,Big mismatch
+2016-04-02,Aston Villa,Chelsea,A,Away,0.6588707910096452,True,Q4 highest,280.7064216477961,Big mismatch
+2016-04-02,Arsenal,Watford,H,Home,0.5834019717156144,True,Q4 highest,182.89080526070438,Big mismatch
+2016-04-03,Leicester City,Southampton,H,Home,0.4858312662836884,True,Q3,59.92728348532273,Evenly matched
+2016-04-03,Manchester United,Everton,H,Home,0.4665389616819898,True,Q3,99.51438418637872,Medium gap
+2016-04-09,West Ham United,Arsenal,D,Away,0.41473491497377035,False,Q2,121.10359881520412,Medium gap
+2016-04-09,Swansea City,Chelsea,H,Away,0.5200317908693323,False,Q4 highest,145.1590904842394,Big mismatch
+2016-04-09,Southampton,Newcastle United,H,Home,0.4806316042725362,True,Q3,153.6290435990045,Big mismatch
+2016-04-09,Watford,Everton,D,Away,0.3820015447332933,False,Q1 lowest,43.30134372748694,Evenly matched
+2016-04-09,Crystal Palace,Norwich City,H,Draw,0.36575231307843603,False,Q1 lowest,42.37232188203825,Evenly matched
+2016-04-09,Aston Villa,Bournemouth,A,Draw,0.37810564631246835,False,Q1 lowest,137.26630593395953,Big mismatch
+2016-04-09,Manchester City,West Bromwich Albion,H,Home,0.5419721310686976,True,Q4 highest,149.34010908694586,Big mismatch
+2016-04-10,Liverpool,Stoke City,H,Home,0.4376803034593679,True,Q3,50.24264410676915,Evenly matched
+2016-04-10,Sunderland,Leicester City,A,Away,0.5742140369619227,True,Q4 highest,189.0117107859421,Big mismatch
+2016-04-10,Tottenham Hotspur,Manchester United,H,Home,0.38627643124657907,True,Q2,21.601099469148267,Evenly matched
+2016-04-13,Crystal Palace,Everton,D,Draw,0.3839416561304858,True,Q1 lowest,49.99888586165298,Evenly matched
+2016-04-16,West Bromwich Albion,Watford,A,Draw,0.3681007288563394,False,Q1 lowest,15.805414944840777,Evenly matched
+2016-04-16,Chelsea,Manchester City,A,Draw,0.3557362283831218,False,Q1 lowest,19.6812029269895,Evenly matched
+2016-04-16,Everton,Southampton,D,Draw,0.3815847990137849,True,Q1 lowest,36.58984275513535,Evenly matched
+2016-04-16,Manchester United,Aston Villa,H,Home,0.5996358521063265,True,Q4 highest,277.20996758912634,Big mismatch
+2016-04-16,Newcastle United,Swansea City,H,Away,0.44879956694972767,False,Q3,115.87317012111566,Medium gap
+2016-04-16,Norwich City,Sunderland,A,Draw,0.39621794700785107,False,Q2,16.821336867842547,Evenly matched
+2016-04-17,Leicester City,West Ham United,D,Home,0.49803516325341013,False,Q3,84.41650460321694,Medium gap
+2016-04-17,Arsenal,Crystal Palace,D,Home,0.651129464670135,False,Q4 highest,195.5792024823968,Big mismatch
+2016-04-17,Bournemouth,Liverpool,A,Away,0.5412986448784676,True,Q4 highest,102.756968841162,Medium gap
+2016-04-18,Stoke City,Tottenham Hotspur,A,Away,0.45767648043938797,True,Q3,122.65216993668218,Medium gap
+2016-04-19,Newcastle United,Manchester City,D,Away,0.5845073954984201,False,Q4 highest,255.46802824172187,Big mismatch
+2016-04-20,Liverpool,Everton,H,Home,0.4964305694990589,True,Q3,90.35115977745409,Medium gap
+2016-04-20,Manchester United,Crystal Palace,H,Home,0.5955836956943861,True,Q4 highest,149.28544994703907,Big mismatch
+2016-04-20,West Ham United,Watford,H,Home,0.4096924823433413,True,Q2,63.717216759047915,Medium gap
+2016-04-21,Arsenal,West Bromwich Albion,H,Home,0.6367864693739843,True,Q4 highest,179.63196991115706,Big mismatch
+2016-04-23,Liverpool,Newcastle United,D,Home,0.6885361744902181,False,Q4 highest,204.9969786432905,Big mismatch
+2016-04-23,Aston Villa,Southampton,A,Away,0.5834336773691351,True,Q4 highest,214.51760808796394,Big mismatch
+2016-04-23,Bournemouth,Chelsea,A,Away,0.4673335472700553,True,Q3,129.61211568493468,Medium gap
+2016-04-23,Manchester City,Stoke City,H,Home,0.5105869509650661,True,Q3,127.28966160343066,Medium gap
+2016-04-24,Sunderland,Arsenal,D,Away,0.559334023327149,False,Q4 highest,221.63489696666147,Big mismatch
+2016-04-24,Leicester City,Swansea City,H,Home,0.6370906119212734,True,Q4 highest,129.67603351518073,Medium gap
+2016-04-25,Tottenham Hotspur,West Bromwich Albion,D,Home,0.6811232366264105,False,Q4 highest,192.58383504128096,Big mismatch
+2016-04-30,Arsenal,Norwich City,H,Home,0.6862941351401747,True,Q4 highest,256.5857672771115,Big mismatch
+2016-04-30,Everton,Bournemouth,H,Draw,0.3636459526942924,False,Q1 lowest,32.055791454128894,Evenly matched
+2016-04-30,Newcastle United,Crystal Palace,H,Draw,0.4093167561369178,False,Q2,54.04575955923565,Evenly matched
+2016-04-30,Stoke City,Sunderland,D,Draw,0.38168692512345714,True,Q1 lowest,78.0380152612563,Medium gap
+2016-04-30,Watford,Aston Villa,H,Draw,0.371990674070011,False,Q1 lowest,144.09522184495563,Big mismatch
+2016-04-30,West Bromwich Albion,West Ham United,A,Away,0.45774804111716877,True,Q3,76.59970617861018,Medium gap
+2016-05-01,Manchester United,Leicester City,D,Draw,0.3652890924267653,True,Q1 lowest,3.3033413560490317,Evenly matched
+2016-05-01,Southampton,Manchester City,H,Away,0.41503771181354265,False,Q2,97.8654139259611,Medium gap
+2016-05-01,Swansea City,Liverpool,H,Away,0.512505587952807,False,Q3,116.01031422337746,Medium gap
+2016-05-02,Chelsea,Tottenham Hotspur,D,Draw,0.36747333546838495,True,Q1 lowest,34.45224827260972,Evenly matched
+2016-05-07,Aston Villa,Newcastle United,D,Away,0.36624428878995746,False,Q1 lowest,94.659565544516,Medium gap
+2016-05-07,Bournemouth,West Bromwich Albion,D,Draw,0.39051392119731765,True,Q2,2.1612804987057643,Evenly matched
+2016-05-07,Crystal Palace,Stoke City,H,Away,0.36955142031659816,False,Q1 lowest,58.482730343267576,Evenly matched
+2016-05-07,Leicester City,Everton,H,Home,0.5994598950929863,True,Q4 highest,113.69534018950822,Medium gap
+2016-05-07,Norwich City,Manchester United,A,Away,0.5250870079537534,True,Q4 highest,228.92111573427906,Big mismatch
+2016-05-07,Sunderland,Chelsea,H,Away,0.5171235269500032,False,Q3,177.02455176324452,Big mismatch
+2016-05-07,West Ham United,Swansea City,A,Home,0.49587364993131344,False,Q3,62.65698512471113,Medium gap
+2016-05-08,Tottenham Hotspur,Southampton,A,Home,0.45247302965882336,False,Q3,88.0189559448147,Medium gap
+2016-05-08,Manchester City,Arsenal,D,Home,0.37519800662236946,False,Q1 lowest,11.334611121410262,Evenly matched
+2016-05-08,Liverpool,Watford,H,Home,0.5927158251572283,True,Q4 highest,111.8417826535981,Medium gap
+2016-05-10,West Ham United,Manchester United,H,Away,0.39290178725169933,False,Q2,79.42933971290017,Medium gap
+2016-05-11,Liverpool,Chelsea,D,Home,0.4208518748424727,False,Q2,10.026280806021305,Evenly matched
+2016-05-11,Sunderland,Everton,H,Away,0.34828346814184935,False,Q1 lowest,52.94165561734053,Evenly matched
+2016-05-11,Norwich City,Watford,H,Draw,0.36183484507241687,False,Q1 lowest,86.75219005387453,Medium gap
+2016-05-15,Watford,Sunderland,D,Draw,0.4021739541558768,True,Q2,2.7444306573720496,Evenly matched
+2016-05-15,Swansea City,Manchester City,D,Away,0.436927999506697,False,Q3,130.3211435571634,Big mismatch
+2016-05-15,Stoke City,West Ham United,H,Away,0.44083486280244427,False,Q3,54.81285072453716,Evenly matched
+2016-05-15,Southampton,Crystal Palace,H,Home,0.6254727547062917,True,Q4 highest,116.987055837561,Medium gap
+2016-05-15,West Bromwich Albion,Liverpool,D,Away,0.5462088761359829,False,Q4 highest,128.0242182944446,Medium gap
+2016-05-15,Everton,Norwich City,H,Draw,0.3922957365524414,False,Q2,101.30758778692962,Medium gap
+2016-05-15,Chelsea,Leicester City,D,Draw,0.38404047873176766,True,Q1 lowest,25.43537231183018,Evenly matched
+2016-05-15,Arsenal,Aston Villa,H,Home,0.6701443601983306,True,Q4 highest,329.39765820164325,Big mismatch
+2016-05-15,Newcastle United,Tottenham Hotspur,H,Away,0.4936321382722168,False,Q3,222.30509674385917,Big mismatch
+2016-05-17,Manchester United,Bournemouth,H,Home,0.6230807936764423,True,Q4 highest,150.73394767856462,Big mismatch
